@@ -1,10 +1,7 @@
-# portfolio-bicicleton
-Build a Personal Portfolio Webpage para el curso de https://www.freecodecamp.org
+## Landing page website 
 
-Proyecto de realización de un Portfolio dentro del curso de Front End Development Certification https://www.freecodecamp.org
-Temario:
-HTML5 and CSS
-Responsive Design with Bootstrap
-jQuery
-Basic Front End Development Proyect
-Basic JavaScript
+![preview](images/scroll-eff.gif)
+
+A landing page website based on bootstrap 4 for educational purpose 
+
+** See The [article on medium ](https://medium.com/@hayanisaid1995/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33) 
